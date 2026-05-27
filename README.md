@@ -89,8 +89,8 @@ git clone https://github.com/Likithkumarr/SQL_Material.git
 ### Open SQL files in:
 - MySQL Workbench
 - pgAdmin
-- VS Code
-### Practice queries step-by-step
+- VS Code <br>
+ Practice queries step-by-step
 
 ## 🌟 Future Improvements
 - Add SQL Projects
@@ -98,7 +98,7 @@ git clone https://github.com/Likithkumarr/SQL_Material.git
 - Add LeetCode SQL solutions
 - Add ER diagrams
 - Add Stored Procedures & Triggers
-- 
+  
 ## 🤝 Contributing
 - Contributions and suggestions are welcome.
 - Fork the repository
